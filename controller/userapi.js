@@ -75,6 +75,3 @@ module.exports = {
   login,
   current,
 };
-// "username":"abdulehman",
-// "email":"abdulradsfehman@gmail.com",
-// http://localhost:5001/api/contact/68114e0aaf4c4208c104deae
